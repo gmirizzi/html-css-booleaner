@@ -58,3 +58,24 @@ td:first-child {
 td:last-child {
     width: 60%;
 }
+
+section {
+    color: gray;
+    font-weight: bold;
+}
+
+.correlati {
+    height: 250px;
+    width: 350px;
+    color: white;
+    position: relative;
+    margin-top: 10px;
+}
+
+.correlati > .titolo{
+    color: white;
+    position: absolute;
+    left: 5px;
+    top:5px;
+    font-size: 25px;
+}

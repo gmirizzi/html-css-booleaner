@@ -59,6 +59,10 @@ td:last-child {
     width: 60%;
 }
 
+.colorata {
+    background-color: darkturquoise;
+}
+
 section {
     color: gray;
     font-weight: bold;
